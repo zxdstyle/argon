@@ -1,5 +1,5 @@
 import React from 'react';
-import Aside from '@/layouts/blank/components/Aside';
+import Aside from './components/Aside';
 import { Outlet } from 'react-router-dom';
 import { Box } from '@chakra-ui/react';
 
